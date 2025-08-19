@@ -4,13 +4,13 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://placehold.co/800x150/orange/white?text=CodePro-JR"  />
+  <img height="150" src="https://placehold.co/800x150/orange/white?text=CoDevJRS"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CodePro-JR.CodePro-JR&left_text=Profile%20views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CoDevJRS.CoDevJRS&left_text=Profile%20views"  />
 </div>
 
 ###
@@ -37,7 +37,7 @@
   <a href="https://wa.me/+51940074003" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="21" alt="whatsapp logo"  />
   </a>
-  <a href="https://t.me/CodePro_JR" target="_blank">
+  <a href="https://t.me/CoDevJRS" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="21" alt="telegram logo"  />
   </a>
 </div>
