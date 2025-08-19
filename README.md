@@ -19,7 +19,7 @@
   <a href="https://youtube.com/@CodePro-JR?si=rvh7foUbovVg-Fir" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="21" alt="youtube logo"  />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/codevjrs" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="21" alt="linkedin logo"  />
   </a>
   <a href="#" target="_blank">
@@ -31,7 +31,7 @@
   <a href="https://paypal.me/CoDevJRS" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=flat" height="21" alt="paypal logo"  />
   </a>
-  <a href="https://www.facebook.com/codeprojr?mibextid=ZbWKwL" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="21" alt="facebook logo"  />
   </a>
   <a href="https://wa.me/+51940074003" target="_blank">
