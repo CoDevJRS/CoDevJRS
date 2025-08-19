@@ -28,7 +28,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="21" alt="gmail logo"  />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://paypal.me/CoDevJRS" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=flat" height="21" alt="paypal logo"  />
   </a>
   <a href="https://www.facebook.com/codeprojr?mibextid=ZbWKwL" target="_blank">
